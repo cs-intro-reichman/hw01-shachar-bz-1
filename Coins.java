@@ -7,7 +7,7 @@ public static void main(String[] args) {
  int quarter = num1/25;
  int cent = num1%25;
  
- System.out.println( "Use " + quarter + " quartes and " + cent + " cents ");
+ System.out.println( "Use " + quarter + " quarters and " + cent + " cents ");
  }
 }
 

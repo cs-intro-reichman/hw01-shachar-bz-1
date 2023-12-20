@@ -25,7 +25,7 @@ public static void main(String[] args) {
  int lowest = Math.min(num1, num2);
  lowest = Math.min(lowest, num3);
 
- System.out.println("The minimal generated number was " + lowest );
+ System.out.println("The minimal generated number was " + lowest);
 
 }
 }
