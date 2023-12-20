@@ -18,7 +18,7 @@ public static void main(String[] args) {
 	isTriangle = false;
 }
 
- System.out.println(line1 + ", " + line2 + ", " + line3 + " : " + isTriangle);
+ System.out.println(line1 + ", " + line2 + ", " + line3 + ": " + isTriangle);
 
  }
 }

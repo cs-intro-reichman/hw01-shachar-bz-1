@@ -9,7 +9,8 @@ public static void main(String[] args) {
 // compute answer
  double answer = c-b;
  answer = answer/a;
- System.out.println( " the value of x is  " + answer);
+ System.out.println(a + " * x + " + b + " = " + c);
+ System.out.println("x = " + answer);
  }
 }
 
