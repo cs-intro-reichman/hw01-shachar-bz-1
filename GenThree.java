@@ -1,4 +1,4 @@
-public class Gen3 {
+public class GenThree {
 public static void main(String[] args) {
 // print three random numbers between a and b and return the lowest 
 
